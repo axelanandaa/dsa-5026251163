@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Prelab Main",
+      "request": "launch",
+      "mainClass": "lw01.prelab.Main",
+      "cwd": "${workspaceFolder}/src/lw01/prelab"
+    },
+    {
+      "type": "java",
+      "name": "Unguided Main",
+      "request": "launch",
+      "mainClass": "lw01.unguided.Main",
+      "cwd": "${workspaceFolder}/src/lw01/unguided"
+    }
+  ]
+}
