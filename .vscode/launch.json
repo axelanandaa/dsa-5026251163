@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "lw02.prelab.Main",
+      "projectName": "dsa-5026251163_a61dad26"
+    },
+    {
+      "type": "java",
       "name": "Prelab Main",
       "request": "launch",
       "mainClass": "lw01.prelab.Main",
