@@ -27,7 +27,7 @@ public class Main {
                     continue;
                 }
                 String[] parts = line.split("\\s+");
-                transactions.add(parts); // parts = { name, type, amount }
+                transactions.add(parts);
             }
         } catch (FileNotFoundException e) {
             System.out.println("Error: transactions.txt not found.");
