@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "lw03.prelab.main",
+      "projectName": "dsa-5026251163_a61dad26"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "lw03.prelab.Main",
+      "projectName": "dsa-5026251163_a61dad26"
+    },
+    {
+      "type": "java",
+      "name": "CountNames",
+      "request": "launch",
+      "mainClass": "countnames.CountNames",
+      "projectName": "dsa-5026251163_a61dad26"
+    },
+    {
+      "type": "java",
       "name": "Main",
       "request": "launch",
       "mainClass": "lw02.unguided.Main",

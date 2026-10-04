@@ -1,0 +1,9 @@
+ADD Ditto
+ADD Super Shy
+ADD OMG
+INSERT 1 Attention
+ADD Ditto
+REMOVE Super Shy
+INSERT 2 Hype Boy
+REMOVE Ditto
+ADD ETA
